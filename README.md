@@ -8,7 +8,7 @@ MAX2 problem statement :)
     Note: If the binary number is "100" then the highest power of 2 that divides it is 2.
 
 DANOW problem statement :)
-    All submissions for this problem are available.As we know, Danny has a huge army and each time she wins a battle the size of      her army is increased. Missandei, her advisor and Handmaiden, keeps the log of each battle and the amount and strength of soldiers won in a battle.
+    As we know, Danny has a huge army and each time she wins a battle the size of      her army is increased. Missandei, her advisor and Handmaiden, keeps the log of each battle and the amount and strength of soldiers won in a battle.
 
 Now, Danny has some questions for Missandei in which she asks the strength of the army gained during some battles. She will ask the query of the form L,R
 and Missandei has to tell the strength gained in between the L and R
